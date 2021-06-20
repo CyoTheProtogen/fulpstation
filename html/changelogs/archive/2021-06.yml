@@ -267,3 +267,27 @@
       for those of you too lazy to visit the kitchen.
   JohnFulpWillard:
   - qol: Sloths can now be picked up.
+2021-06-20:
+  Arkatos:
+  - bugfix: Fixed a case where slip mood debuff was not triggering at all. You should
+      think about being more careful next time...
+  JohnFulpWillard:
+  - admin: Opening and closing job slots is now logged.
+  Mothblocks:
+  - balance: Increased the minimum pop for heretics to 18 players.
+  RandomGamer123:
+  - bugfix: Gun scopes no longer work if you don't have the gun in your hands
+  Thunder12345:
+  - imageadd: Three new hair gradients, a pair of shorter fades and a spiky wave.
+  Watermelon914:
+  - bugfix: Fixed a runtime with the comparison components.
+  Y0SH1M4S73R:
+  - bugfix: dynamic will no longer spawn abductors if there aren't enough applicants
+      for a proper 2-person abductor team
+  mozi_h:
+  - bugfix: Fixed a small icon inconsistency with the notice board.
+  peptron1:
+  - rscadd: Ghosts can now find out how much power is in the network by examining
+      cables
+  zxaber:
+  - sounddel: The space-jam ambient sound will no longer play inside the AI's core.
